@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Firebase、マジ神!!!</h1>
+        <h1>Firebase、マジ神!!!#$%!!!</h1>
       </div>
     </>
   );
